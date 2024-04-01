@@ -1,0 +1,20 @@
+
+
+p{
+    color:rgb(108, 117, 125);
+}
+
+.services{
+    background-color: white;
+    text-align: center;
+}
+
+.service{
+    display: inline-block;
+    width: 24%;
+}
+
+.icons{
+    color:rgba(244, 98,58, 1);
+    font-size: 2rem;
+}
